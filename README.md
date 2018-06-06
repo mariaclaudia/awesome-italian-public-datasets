@@ -52,6 +52,8 @@ In questo tema rientra tutto ciò che riguarda la cultura, il turismo, l’istru
   * [Scuola Secondaria](http://ustat.miur.it/)
   * [Ambito PON](http://dati.istruzione.it/opendata/opendata/catalogo/#PON) 
   
+* [Cantieri Scuole](http://www.cantieriscuole.it/open_data.aspx): Fonti dei principali dataset impiegati per la costruzione ed il funzionamento dell'applicazione CantieriScuole.it di #italiasicura.scuole
+  
 ### Energia 
 In questo tema rientra tutto ciò che concerne il settore dell’energia e dell’estrazione mineraria.
 
@@ -64,7 +66,8 @@ In questo tema rientra tutto ciò che riguarda l’ambiente (rifiuti, consumo de
   * CdS - Il consumo di suolo in Italia
   * RMN - La Rete Mareografica Nazionale
   * RON - Rete Ondametrica Nazionale
-
+  
+* [Catasto rifiuti](http://www.catasto-rifiuti.isprambiente.it): Il Centro Nazionale per il ciclo dei rifiuti di ISPRA effettua annualmente il monitoraggio dei costi sostenuti dai comuni per la gestione dei rifiuti urbani e assimilati. Tali dati sono pubblicati nel Rapporto annuale sui Rifiuti Urbani.
 
 ### Salute
 
@@ -116,11 +119,7 @@ In questo tema rientra tutto ciò che riguarda le politiche di governo, gli affa
 
 * [Agenzia Demanio](https://dati.agenziademanio.it/#/opendata): Banca dati degli immobili di proprietà statale. 
 
-* [Cantieri Scuole](http://www.cantieriscuole.it/open_data.aspx): Fonti dei principali dataset impiegati per la costruzione ed il funzionamento dell'applicazione CantieriScuole.it di #italiasicura.scuole
-
 * [Banca dati Servizio Contratti Pubblici - SCP - Ministero trasporti](http://dati.mit.gov.it/catalog/dataset/scp): Il Dataset contiene gli avvisi, i bandi e gli esiti di gara in formato aperto raccolti dalla Banca dati SCP - Servizio Contratti Pubblici gestita dalla Direzione Generale per la regolazione e i contratti pubblici del Ministero delle Infrastrutture e Trasporti. 
-
-* [Catasto rifiuti](http://www.catasto-rifiuti.isprambiente.it): Il Centro Nazionale per il ciclo dei rifiuti di ISPRA effettua annualmente il monitoraggio dei costi sostenuti dai comuni per la gestione dei rifiuti urbani e assimilati. Tali dati sono pubblicati nel Rapporto annuale sui Rifiuti Urbani.
 
 * [MISE: Aiuti di Stato](http://www.sviluppoeconomico.gov.it/index.php/it/open-data/elenco-dataset)
 
